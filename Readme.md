@@ -15,5 +15,6 @@ Other Links (things I found useful when compiling this):
 - [Page on mySmartUSB programmer](http://shop.myavr.com/index.php?sp=article.sp.php&artID=200006)
 - [petRockBlog: minimal Arduino](http://blog.petrockblock.com/2012/06/11/from-arduino-to-breadboard-with-a-minimum-configuration/)
 - [tod bot blog: minimal Arduino](http://todbot.com/blog/2009/05/26/minimal-arduino-with-atmega8/)
+- [Another minimal Arduino guide](http://www.electrodragon.com/w/DIY_Arduino)
 - [Martyn Currey: fuse settings](http://www.martyncurrey.com/arduino-atmega-328p-fuse-settings/)
 - [Bootloader writing problems](https://github.com/arduino/Arduino/issues/2075)
