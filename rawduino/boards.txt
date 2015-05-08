@@ -9,10 +9,9 @@ rawduino.upload.tool=arduino.avrdude
 rawduino.upload.protocol=stk500
 rawduino.upload.speed=38400
 
-rawduino.build.mcu=atmegang
-rawduino.build.board=AVR_NG
-rawduino.build.core=arduino
-rawduino.build.variant=standard
+rawduino.build.board=AVR_RAWDUINO
+rawduino.build.core=arduino:arduino
+rawduino.build.variant=arduino:standard
 
 ###### ATmega8 @8MHz
 
