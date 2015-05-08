@@ -1,0 +1,1 @@
+Copy definition for desired programmer to programmers.txt in Arduino folder (probably: C:\Program Files (x86)\Arduino\hardware\arduino\avr)

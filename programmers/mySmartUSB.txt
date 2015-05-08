@@ -1,0 +1,5 @@
+mySmartUSB.name=mySmartUSB
+mySmartUSB.protocol=stk500v2
+mySmartUSB.communication=serial
+mySmartUSB.program.tool=avrdude
+mySmartUSB.program.extra_params=-P{serial.port}
