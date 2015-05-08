@@ -1,0 +1,34 @@
+menu.cpu=Processor
+
+##############################################################
+# See http://www.electrodragon.com/w/DIY_Arduino
+
+rawduino.name=Rawduino
+
+rawduino.upload.tool=arduino.avrdude
+rawduino.upload.protocol=stk500
+rawduino.upload.speed=38400
+
+rawduino.build.mcu=atmegang
+rawduino.build.board=AVR_NG
+rawduino.build.core=arduino
+rawduino.build.variant=standard
+
+###### ATmega8 @8MHz
+
+rawduino.menu.cpu.atmega8noxtal=ATmega8-noxtal @8MHz
+
+rawduino.menu.cpu.atmega8noxtal.upload.maximum_size=7168
+rawduino.menu.cpu.atmega8noxtal.upload.maximum_data_size=1024
+
+#rawduino.menu.cpu.atmega8noxtal.bootloader.low_fuses=0xe4
+#rawduino.menu.cpu.atmega8noxtal.bootloader.high_fuses=0xc5
+#rawduino.menu.cpu.atmega8noxtal.bootloader.unlock_bits=0x3F
+
+#rawduino.menu.cpu.atmega8noxtal.bootloader.file=atmega8_noxtal/ATmegaBOOT.hex
+#rawduino.menu.cpu.atmega8noxtal.bootloader.tool=avrdude
+
+rawduino.menu.cpu.atmega8noxtal.build.mcu=atmega8
+rawduino.menu.cpu.atmega8noxtal.build.f_cpu=8000000L
+
+############################################################
