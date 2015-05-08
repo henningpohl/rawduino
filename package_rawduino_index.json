@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "name": "Rawduino",
+      "maintainer": "Henning Pohl",
+      "websiteURL": "https://github.com/henningpohl/rawduino",
+      "email": "henningpohl@gmail.com",
+      "help": {
+        "online": "https://github.com/henningpohl/rawduino"
+      },
+      "platforms": [
+        {
+          "name": "Rawduino",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Rawduino",
+          "help": {
+            "online": "https://github.com/henningpohl/rawduino"
+          },
+          "url": "https://github.com/henningpohl/rawduino/blob/master/rawduino.zip?raw=true",
+          "archiveFileName": "rawduino.zip",
+          "checksum": "SHA-256:c9b735bde9f051e108192d6b374bf8071815301810f8ee7c567e7995fea26aba",
+          "size": "1507",
+          "boards": [
+            {"name": "Rawduino"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
