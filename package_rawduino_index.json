@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/henningpohl/rawduino/blob/master/rawduino.zip?raw=true",
           "archiveFileName": "rawduino.zip",
-          "checksum": "SHA-256:c9b735bde9f051e108192d6b374bf8071815301810f8ee7c567e7995fea26aba",
-          "size": "1507",
+          "checksum": "SHA-256:4353837f2cfafc0bfd655b192d3c897416c79bc59b57efe22b2496303c2c3713",
+          "size": "646",
           "boards": [
             {"name": "Rawduino"}
           ],
