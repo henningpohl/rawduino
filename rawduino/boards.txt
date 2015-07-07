@@ -30,4 +30,14 @@ rawduino.menu.cpu.atmega8noxtal.upload.maximum_data_size=1024
 rawduino.menu.cpu.atmega8noxtal.build.mcu=atmega8
 rawduino.menu.cpu.atmega8noxtal.build.f_cpu=8000000L
 
+###### ATmega328P @8MHz
+
+rawduino.menu.cpu.atmega328pnoxtal=ATmega328P-noxtal @8MHz
+
+rawduino.menu.cpu.atmega328pnoxtal.upload.maximum_size=32768
+rawduino.menu.cpu.atmega328pnoxtal.upload.maximum_data_size=1024
+
+rawduino.menu.cpu.atmega328pnoxtal.build.mcu=atmega328p
+rawduino.menu.cpu.atmega328pnoxtal.build.f_cpu=8000000L
+
 ############################################################

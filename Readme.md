@@ -18,3 +18,4 @@ Other Links (things I found useful when compiling this):
 - [Another minimal Arduino guide](http://www.electrodragon.com/w/DIY_Arduino)
 - [Martyn Currey: fuse settings](http://www.martyncurrey.com/arduino-atmega-328p-fuse-settings/)
 - [Bootloader writing problems](https://github.com/arduino/Arduino/issues/2075)
+- [Minimal ATmega328 guide](https://arduinoelectronics.wordpress.com/2012/02/10/standalone-atmega-without-arduino-bootloader/)
